@@ -1,0 +1,11 @@
+{
+  "name": "@spendesk/prettier-config",
+  "version": "1.0.0",
+  "repository": "git@github.com:Spendesk/prettier-config.git",
+  "license": "MIT",
+  "author": "Yacine Hmito <yacine@spendesk.com>",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
